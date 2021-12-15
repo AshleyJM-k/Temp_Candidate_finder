@@ -6,7 +6,7 @@ A QUALIFICATION can only be for one SESSION A COURSE can have many SESSIONs A SE
 A QUALIFICATION can only be for one COURSE A CANDIDATE can have several HISTORYs A HISTORY can only be for one CANDIDATE A PLACEMENT can require many QUALIFICATIONs 
 A QUALIFICATION can only be for one PLACEMENT A CANDIDATE can be attend many SESSIONS A CANDIDATE can be enrolled in many COURSES
 
-<b>Entities, attributes, and relationships</b>
+Entities, attributes, and relationships
 COMPANY
 COMPANY NAME
 COMPANY ADDRESS
