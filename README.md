@@ -7,5 +7,5 @@ between MySQL and Microsoft Excel.
 
 ![image](https://user-images.githubusercontent.com/38010690/146120439-e700220e-d7da-40da-977d-b58057736745.png)
  
-🌟 Future Goals 🌟
+🌟 Future Goals 🌟 <br>
 Creating a simple to use GUI for the database 
