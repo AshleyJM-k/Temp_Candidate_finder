@@ -6,6 +6,7 @@ This application is important to be easily updatable and accessible because if o
 
 ![image](https://user-images.githubusercontent.com/38010690/146120439-e700220e-d7da-40da-977d-b58057736745.png)
 ![image](https://github.com/AshleyJM-k/Temp_Candidate_finder/blob/main/Images/Relational%20database.png?raw=true)
+![image](https://github.com/AshleyJM-k/Temp_Candidate_finder/blob/main/Images/ERM.pdf)
  
 🌟 Future Goals 🌟 <br>
 Creating a simple to use GUI for the database 
